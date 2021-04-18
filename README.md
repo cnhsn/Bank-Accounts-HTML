@@ -4,4 +4,4 @@ Banka hesaplarınızı müşterilerinize göstermeye yarayan basit bir tasarım.
 
 ## Demo
 
-https://hasan.im/banka/index.html
+https://sn0bzy.github.io/Bank-Accounts-HTML/banka.html
